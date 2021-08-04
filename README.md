@@ -1,5 +1,4 @@
-### Hi there 👋
-<div align="center" width="50">
+<div align="center" width="1100">
 
 <img src="freddd1gif.gif" alt="Welcome!" width="300"/>
 
