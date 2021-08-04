@@ -1,6 +1,6 @@
-<div align="center" width="1100">
+<div align="center">
 
-<img src="freddd1gif.gif" alt="Welcome!" width="300"/>
+<img src="freddd1gif.gif" alt="Welcome!" width="500"/>
 
 </div>
 
