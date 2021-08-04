@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div align="center" width="50">
+
+<img src="freddd1gif.gif" alt="Welcome!" width="300"/>
+
+</div>
 
 <!--
 **freddd1/freddd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
